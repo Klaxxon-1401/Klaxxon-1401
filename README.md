@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Devan</h1>
-<h3 align="center">A passionate frontend developer from Chennai India</h3>
+<h3 align="center">A passionate frontend developer from Chennai,India</h3>
 
 <ul>
-    <li>🌱 I’m currently learning <strong>React</strong></li>
-    <li>💬 Ask me about <strong>Django,Postgresql</strong></li>
-    <li>📫 How to reach me <strong>devanduraipragash@gmail.com</strong></li>
+    <li> I’m currently learning <strong>React</strong></li>
+    <li> Expert in <strong>Django,Postgresql</strong></li>
+    <li> Contact me at <strong>devanduraipragash@gmail.com</strong></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    LinkedIn : <a
+    <img style="width: 100px; height: 25px;" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png/jcr:content/renditions/brandg-linkedinlogo-hero-logo-dsk-v01-2x.png" alt="C">
+    : <a
         href="https://www.linkedin.com/in/devan-duraipragash-163a72398">https://www.linkedin.com/in/devan-duraipragash-163a72398</a>
     <br>
-    Email: devanduraipragash@gmail.com
+    <img style="width: 40px; height: 40px;" src="https://static.cdninstagram.com/rsrc.php/y4/r/QaBlI0OZiks.ico" alt="C">
+                        : <a
+        href="https://www.instagram.com/klaxxon_1401/">https://www.instagram.com/klaxxon_1401/</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -101,5 +104,4 @@
 
 <h3>✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
-
 <hr>
