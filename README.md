@@ -94,13 +94,15 @@
         alt="PyTorch">
 </p>
 
-<h3>📊 GitHub Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Klaxxon-1401&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
-    alt="GitHub Stats"><br />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Klaxxon-1401&theme=dark&hide_border=false"
-    alt="Streak Stats"><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaxxon-1401&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
-    alt="Top Langs">
+<div style="position: relative; left: 50%;">
+    <h3>📊 GitHub Stats:</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=Klaxxon-1401&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
+        alt="GitHub Stats"><br />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Klaxxon-1401&theme=dark&hide_border=false"
+        alt="Streak Stats"><br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaxxon-1401&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+        alt="Top Langs">
+</div>
 
 <h3>✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
