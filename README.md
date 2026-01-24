@@ -18,19 +18,28 @@
         href="https://www.instagram.com/klaxxon_1401/">https://www.instagram.com/klaxxon_1401/</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws" width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
+    <a href="" target="_blank" rel="noreferrer"><img
+            src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
+         alt="CSS3" 
+         width="38" 
+         height="38" />
+</a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a>
+            <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
+            src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="40" height="40" /> </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="40" height="40" /> </a>
@@ -38,14 +47,16 @@
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+            alt="aws" width="40" height="40" /> </a>
+
 </p>
 
-<h3 align="left">💻 Tech Stack: </h3>
+<h3 align="left">Languages and Tools</h3>
 
 <p>
+    <img src="https://img.shields.io/badge/html-%2300599C.svg?style=for-the-badge&logo=html&logoColor=black" alt="C">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
         alt="C++">
