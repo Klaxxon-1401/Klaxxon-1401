@@ -13,7 +13,7 @@
     : <a
         href="https://www.linkedin.com/in/devan-duraipragash-163a72398">https://www.linkedin.com/in/devan-duraipragash-163a72398</a>
     <br>
-    <img style="width: 40px; height: 40px;" src="https://static.cdninstagram.com/rsrc.php/y4/r/QaBlI0OZiks.ico" alt="C">
+    
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
     <a href="" target="_blank" rel="noreferrer"><img
